@@ -1,0 +1,7 @@
+hacking
+stestr
+mock
+requests-mock
+
+# Docs
+sphinx

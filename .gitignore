@@ -1,0 +1,7 @@
+*.egg-info/
+build/
+doc/build/
+AUTHORS
+ChangeLog
+.tox/
+.stestr/
